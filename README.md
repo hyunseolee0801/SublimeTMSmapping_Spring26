@@ -13,6 +13,9 @@ MainProbe_Python -> This is the main file to run the experiment. The goal is to 
 If you use this software in academic work, please cite the associated publication(s).
 See `CITATION.cff` for details.
 
+### Contributor
 
-sublime Lab
+
+### Credit: 
+SUBLIME Lab
 Dr.Luis Gomez
