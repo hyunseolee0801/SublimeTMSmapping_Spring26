@@ -14,7 +14,8 @@ If you use this software in academic work, please cite the associated publicatio
 See `CITATION.cff` for details.
 
 ### Contributor
-
+Hyunseo Lee
+Muhammad Arshad
 
 ### Credit: 
 SUBLIME Lab
