@@ -1,0 +1,4 @@
+#This code aims to be main file to Run the Probe
+#There should be Main, Rigol_Oscilloscope control file, Lynxxmotion control file, Gate Driver File
+#The specification has to be adjusted
+
