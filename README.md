@@ -8,9 +8,11 @@ Mainly for Reference purposes. The goal is to run the whole system within python
 MainProbe_Python -> This is the main file to run the experiment. The goal is to continously run the mapping function without delay. 
 
 
-##Contributor
+### Citation
 
-##Credit: 
+If you use this software in academic work, please cite the associated publication(s).
+See `CITATION.cff` for details.
+
 
 sublime Lab
 Dr.Luis Gomez
